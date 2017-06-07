@@ -1,0 +1,1 @@
+These programs were written and compiled using the Atom text editor standard the G++ compiler. 
